@@ -1,4 +1,3 @@
-Sure! Here's a well-structured README file for your GitHub repository:
 
 **Spectral Data Analysis**
 This model generates synthetic spectral data, smooths it using Gaussian distributions and Savitzky-Golay filters, and performs first and second derivative calculations to detect peaks. It visualizes the original and smoothed data for comparison. Commonly used in signal processing and spectral analysis for noise reduction and feature detection.
